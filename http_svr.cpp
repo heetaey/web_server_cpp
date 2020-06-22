@@ -1,11 +1,3 @@
-/**
- * CPSC 5510
- * Computer Networking
- * Heetae Yang
- * Project 2: Web Server
- * 5/19/2020
- */
-
 #include <iostream>
 #include <string>
 #include <sys/socket.h>
